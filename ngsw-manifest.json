@@ -1,0 +1,13 @@
+{
+  "static": {
+    "urls": {
+      "https://henriquecustodia.github.io/angular-pwa/polyfills.ad37cd45a71cb38eee76.bundle.js": "425984374ac82a3aa985aa5b62e3e001c2d0556a",
+      "https://henriquecustodia.github.io/angular-pwa/main.3c64dabb1382b6372241.bundle.js": "27da7d879bb42155babfafe298611ae3d598736d",
+      "https://henriquecustodia.github.io/angular-pwa/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
+      "https://henriquecustodia.github.io/angular-pwa/inline.ac0a665924b3cf40e2fe.bundle.js": "94df41e75b0ddf9d3c6638c6c5c334329fa197e0",
+      "https://henriquecustodia.github.io/angular-pwa/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "https://henriquecustodia.github.io/angular-pwa/index.html": "52d4e087927fe5ca7b15d5868739c5625225fc5e"
+    },
+    "_generatedFromWebpack": true
+  }
+}
